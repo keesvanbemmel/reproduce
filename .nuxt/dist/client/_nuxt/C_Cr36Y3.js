@@ -1,0 +1,1 @@
+import{_ as t}from"./AvuSJYk_.js";import{c as o,b as n,w as a,a as _,o as c,d as s}from"./5X-OBhEV.js";const r=_("h1",null,"Index",-1),p={__name:"index",setup(d){return(i,l)=>{const e=t;return c(),o("div",null,[r,n(e,{to:"/auth/login"},{default:a(()=>[s(" Login ")]),_:1})])}}};export{p as default};

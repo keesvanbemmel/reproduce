@@ -1,0 +1,1 @@
+import{u as o,c as r,a as e,s as a,o as n}from"./5X-OBhEV.js";const u=e("h1",null,"Reset password",-1),_={__name:"reset-password",setup(c){const{resetPassword:t}=o();return(p,s)=>(n(),r("div",null,[u,e("button",{onClick:s[0]||(s[0]=l=>a(t)("pass123"))}," Reset password ")]))}};export{_ as default};
